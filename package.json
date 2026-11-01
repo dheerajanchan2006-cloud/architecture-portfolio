@@ -1,8 +1,7 @@
 {
   "name": "architecture-portfolio",
   "version": "1.0.0",
-  "description": "High-performance smooth scroll-driven image sequence animation",
-  "main": "server.js",
+  "description": "High-performance smooth scroll-driven architectural portfolio",
   "scripts": {
     "start": "node server.js"
   },
@@ -10,9 +9,9 @@
     "scroll-animation",
     "canvas",
     "image-sequence",
-    "portfolio"
+    "portfolio",
+    "architecture"
   ],
-  "author": "",
+  "author": "Archana MJ",
   "license": "ISC"
 }
-
